@@ -1,5 +1,5 @@
 === WP Multi Slider ===
-Tags:slider,carousel,multi slider, jquery slider, wp slider, slider wp, wordpress, wp,team
+Tags:slider,multi slider, jquery slider, wp slider, slider wp, wordpress, wp,team,carousel, coin slider, coinslider, flex slider, flexslider, image slider, nivo slider, nivoslider, responsive, responsive slider, responsive slides, seo, slider, slideshow, vertical slides, widget, wordpress slider, wordpress slideshow
 
 
 Requires at least: 3.0.1
@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Multi slider is an awesome, super lightweight plugin for your wordpress website. By installing this plugin you will get a awesome slider
+Multi slider is an awesome, super lightweight plugin for your wordpress website. By installing this plugin you will get 4 types awesome slider.
 
 == Description ==
 

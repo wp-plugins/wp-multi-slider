@@ -5,7 +5,7 @@
  * Plugin Name: Multi Slider
  * Plugin URI:  http://raihanb.com/premium/multi-slider/
  * Description: Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.
- * Version:     3.3.1
+ * Version:     1.0
  * Author:      Justin Allison
  * Author URI:  https://www.raihanb.com/premium
  * License:     GPL-2.0+
@@ -30,7 +30,7 @@ class MetaSliderPlugin {
     /**
      * @var string
      */
-    public $version = '3.3.1';
+    public $version = '1.0';
 
 
     /**

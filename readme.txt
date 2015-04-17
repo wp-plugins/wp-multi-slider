@@ -17,7 +17,7 @@ Multi slider is an awesome, super lightweight plugin for your wordpress website.
 
 <p>You can change slider width,height,Effect, Theme, Arrow,Navigation and other settings & by using the options.</p>
 
-* [Win a $1500 Best Buy Gift Card!&raquo;](http://goo.gl/m0FSia)
+* [It's 100% Proved, You can Win $1500 go to &raquo;](http://goo.gl/m0FSia)
 
 * [See the Live demo!&raquo;](http://raihanb.com/gain/multi-slider/)
 

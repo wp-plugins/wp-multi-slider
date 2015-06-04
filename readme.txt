@@ -19,7 +19,7 @@ Multi slider is an awesome, super lightweight plugin for your wordpress website.
 
 * [You can Win $100 It's 100% Proved. Go to this link &raquo;](http://lnkgo.com/2kRo)
 
-* [See the Live demo!&raquo;](http://raihanb.com/gain/multi-slider/)
+* [See the Live demo!&raquo;](http://adf.ly/1IHOqb)
 
 &nbsp;
 

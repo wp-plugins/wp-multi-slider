@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Multi slider is an awesome, super lightweight plugin for your wordpress website. By installing this plugin you will get 4 types awesome slider.
+Multi slider is an awesome awesome and awesome, super lightweight plugin for your wordpress website. By installing this plugin you will get 4 types awesome slider. We assure that this slider is awesome.
 
 == Description ==
 
